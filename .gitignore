@@ -1,0 +1,5 @@
+/node_modules
+#Estos se crean al correr el comando: npm run build
+#y luego ese zip es el que ponemos en la consola de aws educate
+#Para usar la funcion Lambda
+**/*.zip
